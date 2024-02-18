@@ -1,6 +1,6 @@
 # PRODIGY_CS_02
 
-Pixel Mnipulation for Image Ebcryption. Developed a simple image encryption tool using pixel manipulation. Where you can perform operations like swapping pixel values or applying a basic mathematical operation to each pixel. It allow users to encrypt and decrypt images.
+Pixel Mnipulation for Image Encryption. Developed a simple image encryption tool using pixel manipulation. Where you can perform operations like swapping pixel values or applying a basic mathematical operation to each pixel. It allow users to encrypt and decrypt images.
 
 # Pixel Manipulation for Image Encryption
 
