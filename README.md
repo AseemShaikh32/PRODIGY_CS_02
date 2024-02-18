@@ -1,8 +1,8 @@
 # PRODIGY_CS_02
 
-Pixel Mnipulation for image Ebcryption. Developed a simple image encryption tool using pixel manipulation. Where you can perform operations like swapping pixel values or applying a basic mathematical operation to each pixel. It allow users to encrypt and decrypt images.
+Pixel Mnipulation for Image Ebcryption. Developed a simple image encryption tool using pixel manipulation. Where you can perform operations like swapping pixel values or applying a basic mathematical operation to each pixel. It allow users to encrypt and decrypt images.
 
-# Image Encryption and Pixel Manipulation Tool
+# Pixel Manipulation for Image Encryption
 
 This Python script provides functionalities to encrypt and decrypt images using a simple encryption algorithm based on XOR operation. It also allows users to swap the RGB values of pixels in an image.
 
